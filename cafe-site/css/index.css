@@ -38,7 +38,7 @@
     font-family:serif;
 }
 
-.btn :hover{
+.btn a:hover{
     background-color:rgb(89, 51, 34) ;
 }
 
