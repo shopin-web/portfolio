@@ -89,6 +89,7 @@ body{
 }
 
 .contact button {
+    marin: 10px;
     padding: 10px 20px;
     background-color: #333;
     color: white;
